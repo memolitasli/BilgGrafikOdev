@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(42,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(43,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(60,73): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(60,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(61,73): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(61,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(65,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(71,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(103,35): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(106,34): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(109,34): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(112,34): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(115,34): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(118,36): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(121,36): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(171,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(172,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(173,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(184,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(185,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(194,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\memoli\source\repos\grafikodev\grafikodev\main.cpp(195,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  grafikodev.vcxproj -> C:\Users\memoli\source\repos\grafikodev\Debug\grafikodev.exe
